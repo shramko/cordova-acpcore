@@ -1,7 +1,7 @@
 {
-  "name": "@adobe/cordova-acpcore",
+  "name": "@shramko/cordova-acpcore",
   "version": "1.0.0",
-  "description": "Adobe Experience Platform - Core plugin for Cordova apps.",
+  "description": "Adobe Experience Platform - Core plugin for Cordova apps.(fork from https://github.com/adobe/cordova-acpcore)",
   "cordova": {
     "id": "cordova-acpcore",
     "platforms": [
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/adobe/cordova-acpcore"
+    "url": "https://github.com/shramko/cordova-acpcore"
   },
   "keywords": [
     "cordova",
