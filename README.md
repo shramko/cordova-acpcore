@@ -4,6 +4,7 @@
 [![npm](https://img.shields.io/npm/v/@adobe/cordova-acpcore)](https://www.npmjs.com/package/@adobe/cordova-acpcore)
 [![GitHub](https://img.shields.io/github/license/adobe/cordova-acpcore)](https://github.com/adobe/cordova-acpcore/blob/main/LICENSE)
 
+- [Fork changes](#fork-changes)
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Usage](#usage)
@@ -16,6 +17,10 @@
 - [Additional Cordova Plugins](#additional-cordova-plugins)
 - [Contributing](#contributing)
 - [Licensing](#licensing)
+
+## Fork changes:
+ - add implementations to gradle
+ - update readme (installation)
 
 ## Prerequisites
 
@@ -30,7 +35,7 @@ sudo npm install -g cordova
 
 To start using the AEP SDK for Cordova, navigate to the directory of your Cordova app and install the plugin:
 ```
-cordova plugin add https://github.com/adobe/cordova-acpcore.git
+cordova plugin add cordova-acpcore-fork
 ```
 Check out the documentation for help with APIs
 

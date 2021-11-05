@@ -1,6 +1,6 @@
 {
   "name": "cordova-acpcore-fork",
-  "version": "1.0.0",
+  "version": "1.0.4",
   "description": "Adobe Experience Platform - Core plugin for Cordova apps.(fork from https://github.com/adobe/cordova-acpcore)",
   "cordova": {
     "id": "cordova-acpcore-fork",
